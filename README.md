@@ -1,4 +1,4 @@
-## Rafael Rodriguez de San Miguel Beltri 🤠
+## Hi, I'm Rafael! 👋
 
 **`Software Development Engineer (Software Development/UXUI Design)`**
 - 🔭 I’m currently working as an IT Trainee at Nuclea Solutions
