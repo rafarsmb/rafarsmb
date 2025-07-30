@@ -1,8 +1,14 @@
 ## Rafael Rodriguez de San Miguel Beltri 🤠
 
 **`Software Development Engineer (Software Development/UXUI Design)`**
+- 🔭 I’m currently working as an IT Trainee at Nuclea Solutions
+- 🌱 I study Software Development Engineering at Universidad Tecmilenio
+- 😄 I follow the human-centered methdology for my designs
+- ⚡ I follow a AI-Driven methodology for my code
+- 🤔 Any project that is useful you can use it without a problem
+- 📫 How to reach me: rafarsmb07@gmail.com 
+- 💬 Thanks!
 
-Good Day! I'm Rafael, i am a software development engineer at Universidad Tecmilenio. i am a junior software developer and UXUI designer located in Guadalajara, Jalisco, Mexico. All of my projects are built from the ground up, from UX research and UX Design to the development of the project with code. My focus is to create accesible software that everyone can use and enjoy, if any project is useful for you, feel free to use it. Thanks!
 <!--
 **rafarsmb/rafarsmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Good Day! I'm Rafael, i am a IT Trainee at Nuclea Solutions. I studied software development engineering at Universidad Tecmilenio,  i am a junior software developer and UXUI designer located in Guadalajara, Jalisco, Mexico. All of my projects are built from the ground up, from UX research and UX Design to the development of the project with code. My focus is to create accesible software that everyone can use and enjoy, if any project is useful for you, feel free to use it. Thanks!
