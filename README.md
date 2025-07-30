@@ -2,7 +2,7 @@
 
 **`Software Development Engineer (Software Development/UXUI Design)`**
 
-Good Day! I'm Rafael, i am a junior software developer and UXUI designer located in Guadalajara, Jalisco, Mexico. All of my projects are built from the ground up, from UX research and UX Design to the development of the project with code. My focus is to create accesible software that everyone can use and enjoy, if any project is useful for you, feel free to use it. Thanks!
+Good Day! I'm Rafael, i am a junior software developer and UXUI designer located in Guadalajara, Jalisco, Mexico. I studied at Universidad Tecmilenio Campus Guadalajara. All of my projects are built from the ground up, from UX research and UX Design to the development of the project with code. My focus is to create accesible software that everyone can use and enjoy, if any project is useful for you, feel free to use it. Thanks!
 <!--
 **rafarsmb/rafarsmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
