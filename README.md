@@ -1,6 +1,6 @@
 ## Rafael Rodriguez de San Miguel Beltri 🤠
 
-**'Software Development Engineer (UXUI/Software Development)'**
+**`Software Development Engineer (UXUI/Software Development)`**
 
 Good Day! I'm Rafael, i am a junior software developer and UXUI designer located in Guadalajara, Jalisco, Mexico. All of my projects are built from the ground up, from UX research and UX Design to the development of the project with code. My focus is to create accesible software that everyone can use and enjoy, if any project is useful for you, feel free to use it. Thanks!
 <!--
