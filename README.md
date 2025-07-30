@@ -9,6 +9,9 @@
 - 📫 How to reach me: rafarsmb07@gmail.com 
 - 💬 Thanks!
 
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafarsmb)](https://github.com/rafarsmb/github-readme-stats)
+
+
 <!--
 **rafarsmb/rafarsmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
