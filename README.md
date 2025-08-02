@@ -2,7 +2,7 @@
 
 **`Software Development Engineer (Software Development/UXUI Design)`**
 # 💫 About Me:
-- 🔭 I’m currently working as an IT Trainee at Nuclea Solutions<br>- 🌱 I study Software Development Engineering at Universidad Tecmilenio<br>- 😄 I follow the human-centered methdology for my designs<br>- ⚡ I follow a AI-Driven methodology for my code<br>- 🤔 Any project that is useful you can use it without a problem<br>- 📫 How to reach me: rafarsmb07@gmail.com <br>- 💬 Thanks!
+- 🔭 I’m currently working as a Video Editor at Inmobiliaria SMB Arquitectos<br>- 🌱 I study Software Development Engineering at Universidad Tecmilenio<br>- 😄 I follow the human-centered methdology for my designs<br>- ⚡ I follow a AI-Driven methodology for my code<br>- 🤔 Any project that is useful you can use it without a problem<br>- 📫 How to reach me: rafarsmb07@gmail.com <br>- 💬 Thanks!
 
 
 ## 🌐 Socials:
